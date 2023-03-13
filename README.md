@@ -5,4 +5,4 @@
 
 - Step 1. Go to https://www.python.org/downloads/ and download the available version of python.
 
-- 
+- (image)[python_install.png]
